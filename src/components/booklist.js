@@ -23,7 +23,6 @@ const BookCard = (props) => (
           type="button"
           className="close"
           aria-label="Close"
-          style={{ marginTop: '10px', marginBottom: '10px' }}
         >
           X
         </button>
