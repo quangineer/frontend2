@@ -21,7 +21,7 @@ const BookCard = (props) => (
         <button
           onClick={() => props.deleteBook(props.keyt)}
           type="button"
-          class="close"
+          className="close"
           aria-label="Close"
           style={{ marginTop: '10px', marginBottom: '10px' }}
         >
